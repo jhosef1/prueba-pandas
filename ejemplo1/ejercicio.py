@@ -10,6 +10,6 @@ df = pd.read_csv(archivo_csv)
 print("📋 Lista de empleados:")
 print(df)
 
-# Contar empleados
+# CODIGO ACTUALIZADO POR CELSO
 cantidad = len(df)
 print(f"\n👥 Total de empleados: {cantidad}")
